@@ -2,14 +2,11 @@
   "name": "adventofcode",
   "version": "1.0.0",
   "description": "adventofcode",
-  "homepage": "https://github.com/quicbit-js/adventofcode",
-  "url": "https://github.com/quicbit-js/adventofcode/issues",
-  "email": "support@quicbit.com",
-  "repository": "quicbit-js/adventofcode",
-  "dependencies": {
-    "tap": "^15.1.5"
-  },
+  "homepage": "https://github.com/mvoss9000/adventofcode_day5",
+  "url": "https://github.com/mvoss9000/adventofcode_day5/issues",
+  "repository": "mvoss9000/adventofcode_day5",
   "devDependencies": {
+    "tap": "^15.1.5",
     "tape": "^4.9.1",
     "test-kit": "^2.9.1"
   },
