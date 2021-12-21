@@ -18,14 +18,12 @@
     "cov": "tap --coverage-report=html test.js"
   },
   "keywords": [
-    "fast",
-    "compact",
-    "minimal",
-    "qb",
-    "qb1",
-    "quicbit",
-    "data",
-    "performance"
+    "adventofcode",
+    "day5",
+    "challenge",
+    "javascript",
+    "node",
+    "nodejs"
   ],
   "files": [
     "index.js",
